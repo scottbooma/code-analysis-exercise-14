@@ -19,9 +19,9 @@ function (user){
 
 | Input | Output |
 | ----- | ------ |
-|  scottyboombox = {username: "scottyboombox", isActive: true}     |  'Welcome back, scottyboombox!'      | 
-|  kylecoberly = {username: "kylecoberly", isActive: flase}     | 'Hey kylecoberly! Would you like to renew your subscription'       | 
-|  xX_69PrOsNiPeR69_Xx = {username: "xX_69PrOsNiPeR69_Xx", isActive: false}   | 'Hey xX_69PrOsNiPeR69_Xx! Would you like to renew your subscription?'       | 
+|  {username: "scottyboombox", isActive: true}     |  'Welcome back, scottyboombox!'      | 
+|  {username: "kylecoberly", isActive: flase}     | 'Hey kylecoberly! Would you like to renew your subscription'       | 
+|  {username: "xX_69PrOsNiPeR69_Xx", isActive: false}   | 'Hey xX_69PrOsNiPeR69_Xx! Would you like to renew your subscription?'       | 
 
 <table>
   <tr>
